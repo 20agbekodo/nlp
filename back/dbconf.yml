@@ -1,0 +1,4 @@
+development:
+  driver: mysql
+  open: admin:admin@tcp(localhost:3306)/gin_react?charset=utf8&parseTime=True
+  dialect: "mysql"
